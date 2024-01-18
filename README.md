@@ -1,14 +1,6 @@
 
 ## Hi, I'm Piyush Kumar Upadhyay👋
 Hello, I have started my career as MERN(React,Node,Express,MongoDB) stack Developer. <br>
-
-- 🔭 I’m currently working on ...
-   - MERN Stack
-- 🌱 I’m currently learning ...
-  - React
-  - Node
-  - Redux
-
   
 ### Technical Skills
  
@@ -34,6 +26,12 @@ Hello, I have started my career as MERN(React,Node,Express,MongoDB) stack Develo
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+   - MERN Stack
+- 🌱 I’m currently learning ...
+  - React
+  - Node
+  - Redux
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
