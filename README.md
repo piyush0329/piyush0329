@@ -3,6 +3,9 @@
 Hello, I have started my career as MERN(React,Node,Express,MongoDB) stack Developer. <br>
 
 - 🔭 I’m currently working on ...
+- - MERN Stack
+- 🌱 I’m currently learning ...
+- -
 
   
 ### Technical Skills
