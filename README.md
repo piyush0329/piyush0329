@@ -1,4 +1,20 @@
-### Hi there 👋
+
+## Hi, I'm Piyush Kumar Upadhyay👋
+Hello, I have started my career as MERN(React,Node,Express,MongoDB) stack Developer. <br>
+*![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |*
+![visitors]('https://visitor-badge.glitch.me/badge?page_id=${piyush0329}')
+
+<hr>
+
+<h3> Find me around the web 🌎:</h3>
+  Connect with me on Linkedin: <a href="https://www.linkedin.com/in/piyush0329/" target="_blank">LinkedIn 💡</a><br>
+  
+  Connect with me on Instagram: <a href ="https://www.instagram.com/upadhyayji__0329" target="_blank">Instagram 🖼</a><br>
+<hr>
+
+[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=piyush0329&show_icons=true&theme=graywhite)](https://github.com/piyush0329/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0329&layout=compact&theme=vue)](https://github.com/piyush0329/github-readme-stats)
+<hr>
 
 <!--
 **piyush0329/piyush0329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
