@@ -17,7 +17,7 @@ Hello, I have started my career as MERN(React,Node,Express,MongoDB) stack Develo
   
   Connect with me on Instagram: <a href ="https://www.instagram.com/upadhyayji__0329" target="_blank">Instagram 🖼</a><br>
 <hr>
-![piyush0329's Stats](https://github-readme-stats.vercel.app/api?username=piyush0329&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+!![piyush0329's Stats](https://github-readme-stats.vercel.app/api?username=piyush0329&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ![piyush0329's Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush0329&theme=vue-dark&hide_border=true)
 ![piyush0329's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0329&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <hr>
