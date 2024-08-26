@@ -1,6 +1,5 @@
 
 ## Hi, I'm Piyush Kumar Upadhyay👋
-Hello, I have started my career as MERN(React,Node,Express,MongoDB) stack Developer. <br>
   
 
 ## 🌐Socials
